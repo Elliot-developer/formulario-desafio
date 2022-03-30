@@ -1,0 +1,49 @@
+* {
+     margin: 0px;
+     padding: 0px;
+}
+
+body {
+     background-color: rgb(168, 192, 171);
+}
+
+/* CLASS login*/
+
+
+
+.tela-l {
+     border: 1px solid red;
+     width: 300px;
+     height: auto;
+     text-align: center;
+     background-color: rgb(153, 153, 153);
+     padding: 24px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 170px;
+}
+
+.email-l {
+     font-size: 20px;
+}
+
+.pass-l {
+     font-size: 20px;
+}
+
+.botao-l {
+     border-radius: 15px;
+     padding: 5px 15px;
+     text-align: center;
+     background-color: rgb(100, 100, 100);
+     color: rgb(0, 0, 0);
+}
+
+.tela-l a {
+     text-decoration: none;
+     color: black;
+}
+
+.tela-l a:hover {
+     text-decoration: underline;
+}
